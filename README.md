@@ -9,7 +9,7 @@ This is a template project for setting up a Playwright framework with Java, Mave
 1. Create a new repository using this template or clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/funsoltest/Template-for-Java-with-Playwright-TestNG-and-Allure.git
+   git clone https://github.com/funsoltest/Template-for-Java-with-Playwright-TestNG-POM-and-Allure
    ```
 2. Navigate to the project directory
 
